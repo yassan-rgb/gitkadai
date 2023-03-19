@@ -1,0 +1,32 @@
+@charset  "UTF-8";
+
+.category_title{
+ 
+  padding: 5px;
+  color: #fff;
+}
+
+.type1{
+  background-color: #e39bdc;
+}
+
+.type2{
+  background-color: #efb9ea;
+}
+
+.type3{
+  background-color: #edbfe9;
+}
+
+.category_title a{
+  color:#fff;
+}
+
+ul{
+  padding: 0;
+  border:solid 2px;
+}
+
+li{
+  list-style:none;
+}
